@@ -1,0 +1,5 @@
+1) Determine big oh notation for 
+A given mathematical function in the form of f(n) = n^2 + 34n + logn + 2^n. (Please check the slides related to analysis of algorithm to learn how to solve these classes of problem. Also solve the algorithm design manual by skienna for these questions. Pdf already provided). 
+2) determine runtime for given algorithm snippets. 
+3) calculating runtime from recurrence relationship of recursive and divide & conquer algorithms.  
+4) master method for solving divide and conquer algorithms. 
